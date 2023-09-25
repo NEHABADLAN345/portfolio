@@ -19,7 +19,7 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /YOUR_portfolio_NAME
 header-item1: Home
 header-item2: About
 header-item3: Blogs
@@ -68,8 +68,8 @@ spacing.fixed.px: 100
 spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: I'm
-secondTitle: YOUR_NAME,
+firstTitle: I'm 
+secondTitle: Neha ,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -112,15 +112,15 @@ link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/Nehabadlan4778
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/NEHABADLAN345
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/nehabadlani345
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
